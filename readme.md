@@ -1,3 +1,4 @@
 # Test repository
 
 Testing
+newline
